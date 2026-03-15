@@ -1,0 +1,12 @@
+streamlit>=1.20
+pandas
+langchain
+openai
+faiss-cpu
+sentence-transformers
+chromadb
+python-dotenv
+requests
+folium
+streamlit-folium
+tqdm
